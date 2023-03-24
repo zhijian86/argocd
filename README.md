@@ -9,7 +9,7 @@ kubectl create ns argocd
 ```
 
 <details>
-<summary>and then choose one of the below options :<summary>
+<summary>and then choose one of the below options :</summary>
 
 1. Non-HA:
 
